@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Pacifico&family=Roboto&display=swap');
+
+/*
+target {
+	property: value;
+}
+*/
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+* {
+	font-family: 'Roboto', sans-serif;
+}
